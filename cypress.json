@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://come-con.herokuapp.com/",
+    "chromeWebSecurity": false
+}

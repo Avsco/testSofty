@@ -1,0 +1,16 @@
+{
+  "name": "softy_testing",
+  "version": "1.0.0",
+  "description": "Test end to end wit cypress",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "cypress-file-upload": "^5.0.8"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "@Avsco",
+  "license": "ISC"
+}
