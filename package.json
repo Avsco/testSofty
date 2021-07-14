@@ -4,7 +4,7 @@
   "description": "Test end to end wit cypress",
   "main": "index.js",
   "devDependencies": {
-    "cypress": "^7.6.0",
+    "cypress": "^7.7.0",
     "cypress-file-upload": "^5.0.8"
   },
   "scripts": {
